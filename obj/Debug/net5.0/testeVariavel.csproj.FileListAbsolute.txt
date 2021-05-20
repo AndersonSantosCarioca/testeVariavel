@@ -1,0 +1,16 @@
+/home/anderson/Documentos/Devaria/C#/testeVariavel/bin/Debug/net5.0/testeVariavel
+/home/anderson/Documentos/Devaria/C#/testeVariavel/bin/Debug/net5.0/testeVariavel.deps.json
+/home/anderson/Documentos/Devaria/C#/testeVariavel/bin/Debug/net5.0/testeVariavel.runtimeconfig.json
+/home/anderson/Documentos/Devaria/C#/testeVariavel/bin/Debug/net5.0/testeVariavel.runtimeconfig.dev.json
+/home/anderson/Documentos/Devaria/C#/testeVariavel/bin/Debug/net5.0/testeVariavel.dll
+/home/anderson/Documentos/Devaria/C#/testeVariavel/bin/Debug/net5.0/ref/testeVariavel.dll
+/home/anderson/Documentos/Devaria/C#/testeVariavel/bin/Debug/net5.0/testeVariavel.pdb
+/home/anderson/Documentos/Devaria/C#/testeVariavel/obj/Debug/net5.0/testeVariavel.csprojAssemblyReference.cache
+/home/anderson/Documentos/Devaria/C#/testeVariavel/obj/Debug/net5.0/testeVariavel.GeneratedMSBuildEditorConfig.editorconfig
+/home/anderson/Documentos/Devaria/C#/testeVariavel/obj/Debug/net5.0/testeVariavel.AssemblyInfoInputs.cache
+/home/anderson/Documentos/Devaria/C#/testeVariavel/obj/Debug/net5.0/testeVariavel.AssemblyInfo.cs
+/home/anderson/Documentos/Devaria/C#/testeVariavel/obj/Debug/net5.0/testeVariavel.csproj.CoreCompileInputs.cache
+/home/anderson/Documentos/Devaria/C#/testeVariavel/obj/Debug/net5.0/testeVariavel.dll
+/home/anderson/Documentos/Devaria/C#/testeVariavel/obj/Debug/net5.0/ref/testeVariavel.dll
+/home/anderson/Documentos/Devaria/C#/testeVariavel/obj/Debug/net5.0/testeVariavel.pdb
+/home/anderson/Documentos/Devaria/C#/testeVariavel/obj/Debug/net5.0/testeVariavel.genruntimeconfig.cache
